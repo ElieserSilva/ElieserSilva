@@ -5,7 +5,7 @@
 - 🌱 I am currently learning anything about development.
 
 
-> [!INFO] [Visit ESDevel Youtube](https://youtube.com/@esdevel).
+> [!NOTE] [Visit ESDevel Youtube](https://youtube.com/@esdevel).
 <!--
 **ElieserSilva/ElieserSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
