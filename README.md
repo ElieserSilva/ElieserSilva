@@ -4,6 +4,9 @@
 - 💬 Ask me about of Programing and Design.
 - 🌱 I am currently learning anything about development.
 
+#### GitHub Stats
+
+![github-stats eliesersilvar](https://github-readme-stats.vercel.app/api/top-langs/?username=eliesersilva&layout=compact&theme=github_dark)
 
 > [!NOTE]
 > [Visit ESDevel Youtube](https://youtube.com/@esdevel).
